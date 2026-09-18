@@ -21,3 +21,6 @@ HYUNDAI AI
 
 ## 푸터 추가
 - 푸터를 추가했음
+
+## SIDEBAR 개발
+- SIDEBAR 개발
